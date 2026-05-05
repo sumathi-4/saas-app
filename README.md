@@ -5,7 +5,7 @@ Built with **React (Vite)** on the frontend and **Node.js + Express + MongoDB** 
 
 🔗 **Live Demo**  
 Frontend: [https://saas-app-frontend.onrender.com](https://saas-app-frontend.onrender.com)  
-Backend API: [https://saas-app-backend-71pr.onrender.com/api](https://saas-app-backend-71pr.onrender.com/api)
+Backend API: [https://saas-app-backend-71pr.onrender.com/](https://saas-app-backend-71pr.onrender.com/)
 
 ---
 
