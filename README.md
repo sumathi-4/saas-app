@@ -9,7 +9,7 @@ Backend API: [https://saas-app-backend-71pr.onrender.com/](https://saas-app-back
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Secure login & signup** – JWT tokens stored in `localStorage`.
 - **Role‑based access** – Admin users can delete tasks; normal users cannot.
@@ -21,7 +21,7 @@ Backend API: [https://saas-app-backend-71pr.onrender.com/](https://saas-app-back
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - Node.js + Express
@@ -38,7 +38,7 @@ Backend API: [https://saas-app-backend-71pr.onrender.com/](https://saas-app-back
 
 ---
 
-## 🚀 Local Development Setup
+##  Local Development Setup
 
 ### Prerequisites
 - Node.js (v18 or higher)
